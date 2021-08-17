@@ -4,6 +4,15 @@
 
 A simple react portfolio app with a lot of features. Used few libraries for the app. I decided to build this portfolio to learn a lot of features without using too many third party libraries
 
+## Features
+
+- Snap scroll
+- Tap Menu
+- Animated hamburger icon
+- Responsive slider
+- Animated hamburger icon
+- Animated text
+
 ## Installation
 
 fork it in codesandox `https://codesandbox.io/s/github/prosper74/portfolio`
